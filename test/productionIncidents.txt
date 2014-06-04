@@ -1,0 +1,15 @@
+ID,DateOpened,DateClosed,Description,Feature,Severity
+502,2013-03-09,2013-03-09,Site Down,Site,1
+501,2013-03-07,2013-03-09,Videos Not Playing,Video,2
+500,2013-03-07,2013-03-09,Video Title Mismatch,Video,4
+499,2013-03-07,2013-03-09,Shopping cart not loading,Cart,1
+498,2013-03-06,2013-03-09,Client side logging not working,Logging,4
+497,2013-03-05,2013-03-09,Video playback issue for subset,Video,3
+496,2013-03-05,2013-03-09,Customer unable to log in,Login,2
+495,2013-03-01,2013-03-09,Memory profile spiking,Heap,2
+494,2013-03-05,2013-03-09,Video playback issue for subset,Video,3
+493,2013-03-05,2013-03-09,Customer unable to log in,Login,2
+492,2013-03-01,2013-03-09,Memory profile spiking,Heap,2
+491,2013-03-05,2013-03-09,Video playback issue for subset,Video,3
+490,2013-03-05,2013-03-09,Customer unable to log in,Login,2
+489,2013-03-01,2013-03-09,Memory profile spiking,Heap,2

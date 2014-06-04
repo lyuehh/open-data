@@ -1,0 +1,55 @@
+Date,ID,Severity,Status,Summary
+01-04-2013,46250, Minor, Deferred, XTV_Entity_Incorrect provider code is displayed for "ESPNU Recruting Nation" on Entity Page_STG
+01-04-2013,46253, Minor, Deferred, XTV_Recommendations_Black screen is displayed few seconds an adding queue from suggestions in the  recommendation lytebox
+01-08-2013,45095, Minor, Deferred, XTV_Entity_Episodes without episode number are displayed under Season list for few entities_PRD & MRL
+01-08-2013,45269, Blocker, Pending Reject, XTV_Entity_Flike button is not changed to liked state after logging to facebook by clicking the Flike button_PRD
+01-08-2013,46262, Minor, Deferred, XFN_Remote Tune_Error message is displayed on tuning from rtune module for all accounts_STG
+01-08-2013,46263, Minor, Deferred, XTV_VOD_Black screen is displayed in trailer lytebox for users in Non US Proxy_PRD
+01-09-2013,46267, Minor, Deferred, XTV_Entity_Record buttons and Airing Details are not displayed for the Currently Airing Programs in Entity Page_STG
+01-09-2013,46268, Minor, Pending Defer, XTV_RDVR_Record Series button is disabled in Entity Page if the Entity has currently airing episodes_PRD
+01-09-2013,46269, Blocker, Deferred, XTV_Entity_Network logos are merged with "Modify Series" button in the entity card section  
+01-09-2013,46270, Blocker, Deferred, XTV_Entity_No space between the Network logo and description_PRD
+01-09-2013,46271, Blocker, Deferred, XFN_Dashboard_Expanded weather module is displayed behind the Email preview overlay_PROD
+01-10-2013,46276, Blocker, Pending Retest  , XFN_SR_Search_News_Search text box is not showing up in IE7 browser
+01-10-2013,46277, Minor, Deferred, XFN_Nozomi local_In denver nozomi local page contents in the all modules are not updated,default data is displayed_PRD 
+01-10-2013,46281, Minor, Deferred, XFN_Nozomi local_Village of Buffalo Grove module is not displayed for the user who has set zipcode 60089_PRD
+01-14-2013,46292, Minor, Deferred, XTV_VID_Closed Captioning_html tag break is displayed with the CC texts for some of the videos
+01-16-2013,46314, Minor, Deferred, XTV_VID_Live Streaming Video_Disney_Error 701403-23-6008 message is displayed upon switching between the video quality_PRD
+01-16-2013,46315, Blocker, Re-Opened, XTV_VID_Silverlight Installation - Upgrade message is displayed in Upper Case_PRD&STG
+01-22-2013,45296, Blocker, Deferred, XTV_VID_Full Screen button is non-functional for Silverlight videos_PRD
+01-22-2013,46326, Minor, Open , XFN_SR_Search_In the Modify overlay Cancel icon is missing inside the cancel recording button
+01-25-2013,46554, Minor, Open , XTV_VID_Embed_Default search text (Search For More Videos!) is not getting disappear upon cursor focus in the search edit box._PRD
+01-29-2013,46579, Minor, Deferred, XFN_Finance URLs_None of the finance.comcast.net URLs are redirecting to xfinity.cnbc.com_MR
+01-30-2013,46551, Minor, Open , XTV_Browse_Browse Movies page is displayed on clicking the Animal Farm entity_PRD
+01-30-2013,46561, Blocker, Open , XFN_SR_Search history drop down for google search bar is misaligned in IE browsers
+02-04-2013,46541, Minor, Open , XTV_Entity_Series is displayed as episode in entity asset section_PRD
+02-04-2013,46603, Minor, Deferred, XFN_Hero targeted member preview>The profile module does not load for auth & unauth users_SR
+02-05-2013,46260, Minor, Re-Opened, XTV_VID_Video urls are incorrectly mapped for few full length videos_PRD & STG
+02-05-2013,46671, Blocker, Deferred, XTV_Queue_Clicking on "?" icon from the queue recommendation lytebox, page scrolls to the top. 
+02-06-2013,45627, Critical, In Progress  , XTV_VID_AD_Primetime_Play button display when pre roll and mid -roll Ad plays_MR
+02-06-2013,45627, Critical, In Progress  , XTV_VID_AD_Primetime_Play button display when pre roll and mid -roll Ad plays_MR
+02-06-2013,46707, Minor, Open , XTV_Entity_"Available Online" & "Available on TV" platform filters are not displayed for the entity which has only clips_PRD
+02-07-2013,45627, Critical, In Progress  , XTV_VID_AD_Primetime_Play button display when pre roll and mid -roll Ad plays_MR
+02-07-2013,45627, Critical, In Progress  , XTV_VID_AD_Primetime_Play button display when pre roll and mid -roll Ad plays_MR
+02-07-2013,46710, Critical, Deferred, XTV_VID_Live Streaming_Error 5253222 displayed for beIN Sport streaming video_STG
+02-08-2013,45627, Critical, In Progress  , XTV_VID_AD_Primetime_Play button display when pre roll and mid -roll Ad plays_MR
+02-08-2013,45627, Critical, In Progress  , XTV_VID_AD_Primetime_Play button display when pre roll and mid -roll Ad plays_MR
+02-08-2013,46743, Minor, Open , XTV_Online videos are not available in entity full episode page though we see a full length video count in one network browse main screen._PRD
+02-09-2013,45627, Critical, In Progress  , XTV_VID_AD_Primetime_Play button display when pre roll and mid -roll Ad plays_MR
+02-11-2013,46756, Minor, Open , XTV_Browse_"2013" Year is not displayed under "Release Date" Filter in Browse Movies Page_PRD  
+02-11-2013,46757, Minor, Open , XTV_Entity_Shortform videos are displayed under Full Movie in some Entity pages_PRD
+02-11-2013,46760, Blocker, Open , XTV_Home Page_Sub Navigation bar is not displayed under MGN for IE7 Browser_PRD
+02-12-2013,46772, Blocker, Open , XTV_VID_Junk character is displayed in End state summary for Sequential Videos_PRD&STG
+02-13-2013,42418, Minor, Deferred, XFN_Home_Cover Module_Title is overlapped with Pagination number when we published the lengthy title _SR
+02-13-2013,45366, Minor, Deferred, XFN_Customer Central_In QA unable to edit the user Customer names since infinite Sign in loop is displayed_MR
+02-13-2013,46639, Minor, Open , XFN_Dashboard_Message to TV_In Success overlay the text box is clickable_SR
+02-13-2013,46771, Blocker, Open , XTV_Entity_Clip details are displayed with Promo message on clicking Hide checkbox_PRD
+02-13-2013,46780, Blocker, In Progress  , XFN_SR_Search_SUMO2_Record overlay is getting broken
+02-13-2013,46782, Minor, Open , XFN_SR_Search_SUMO2_Weather module is not loading in the search results page
+02-13-2013,46790, Minor, Open , XFN_SR_Search_When we search with the term "10+2", Calculator module is not displayed  
+02-14-2013,46775, Blocker, Pending Retest  , XFN_Nozomi local_In Footer the word “update” is not appended with Terms of Service and Privacy policy
+02-14-2013,46794, Critical, Fixed, XSP_Queue_"Set up your queue" section is not displayed when we delete all the entities in the queue page_SR 
+02-14-2013,46814, Blocker, Open , XSP_Movies_Entity contents are not displayed in the browse movies page_SR
+02-14-2013,46816, Blocker, Open , XSP_Tv shows_Entity contents are not displayed in the browse Tv shows page_SR
+02-14-2013,46819, Blocker, Open , XSP_ETY_Streampix logo is displayed in entity pages
+02-14-2013,46820, Critical, Open , XSP_ETY_"More like this " button is displayed in entity pages  

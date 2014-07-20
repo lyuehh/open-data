@@ -29,4 +29,4 @@ a = _.reduce($("tr"), function(memo, v, i) {
     return memo;
 }, "");
 
-'id,date,red1,red2,red3,red4,red5,red6,blue1' + '\n' + a
+a

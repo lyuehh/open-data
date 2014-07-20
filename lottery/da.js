@@ -37,5 +37,5 @@ a = _.reduce($("tr"), function(memo, v, i) {
     return memo;
 }, "");
 
-'id,date,red1,red2,red3,red4,red5,blue1,blue2' + '\n' + a
+a
 

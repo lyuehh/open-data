@@ -7,4 +7,6 @@ export PATH=/home/weiwei/.nvm/v0.10.26/bin:$PATH
 
 git add .
 git commit -m 'auto update'
+git fetch
+git pull origin master
 git push origin master
